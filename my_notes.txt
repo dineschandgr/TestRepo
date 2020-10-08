@@ -1,0 +1,18 @@
+- Readability
+- Adherence to best practices
+- Extensibility (what if we wanted to add an other source later, or a different database?)
+- Exception handling
+
+
+
+1. Naming Convention and all classes follow SRP (Single Responsibility Principle)
+2. TDD
+3. Test Controller end point, Service and Repo
+4. Test Utility class
+5. H2 DB for testing
+6. Mysql DB for application
+7. RestControllerAdvice for exception handling
+8. Hibernate ORM to switch DB
+9. API available for any source
+10. Docker file for containerizing for horizontal scaling
+
