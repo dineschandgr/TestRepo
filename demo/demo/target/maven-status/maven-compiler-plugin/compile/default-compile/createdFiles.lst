@@ -1,0 +1,3 @@
+io\jpatest\demo\model\Employee.class
+io\jpatest\demo\DemoApplication.class
+io\jpatest\demo\repository\EmployeeRepository.class
